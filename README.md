@@ -5,3 +5,9 @@ character wakes up and finds himselef in a stragne room. He gets up to leave the
 "Are you ready to escape?" And then..
 
 "Start with the key"
+
+He unlocks the door and steps out. When he steps out he finds another paper filled with hints and that is what he uses to escape.
+
+
+
+
