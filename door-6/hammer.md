@@ -9,4 +9,3 @@ Finding a hammer in which the character realized they can use the hammer to brea
 
 ---
 
-[Continue to the next door](gates.md)
