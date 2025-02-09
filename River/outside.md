@@ -14,4 +14,4 @@ Following what the note says you decide to use the tree that is near to cross ov
 
 ---
 
-[flashlight](flashlight.md) Or [gates](gates.md)
+[Continue](flashlight.md)
