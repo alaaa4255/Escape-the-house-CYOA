@@ -6,5 +6,7 @@ Figuring out what this means, the character looks back and find a box near the g
 
 
 
+---
 
+[Next](outside.md)
 
