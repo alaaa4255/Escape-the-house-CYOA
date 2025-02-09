@@ -7,4 +7,4 @@ Looking back to find something that moves the character goes on to figure out wh
 
 Finding a hammer in which the character realized they can use the hammer to break the lock on the door.
 
-[Continue](gates.md)
+[gates](gates.md)
