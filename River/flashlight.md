@@ -1,4 +1,4 @@
-# Outside
+
 
 After crossing the river with the help of a tree log.
 
@@ -12,7 +12,7 @@ The character then sees a object dangling from a tree brance that he could reach
 
 With the flashlight now in his hand, he uses it to signal a car.
 
-And finally the character has escaped.
+However, when the character enters the car he sees he is being taken to another house...
 
 
 
