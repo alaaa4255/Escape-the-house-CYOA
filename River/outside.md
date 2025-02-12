@@ -1,5 +1,5 @@
 
- Outside
+
 
 Once outside the house the character notices that there is a huge river he needs to cross before actually finally escaping. He feels hopeless when he remebers that he does not know how to swim.
 
@@ -14,5 +14,5 @@ The character then uses his hand as way of paddling to get him to the far other 
 Once at the end, the character hops of the log and heads off to see what he needs to do next.
 
 
-[Continue](flashlight.md)
+[The flashlight](flashlight.md)
 
