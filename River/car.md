@@ -15,7 +15,7 @@ The driver then speaks to the character telling him "you are demanded to try and
 "would you like to play another game in escaping the next house ?"
 
 
-"or would you rather go back, and stay trapped in the house?"
+"or would you rather go back, and stay trapped in the house ?"
 
 
 
