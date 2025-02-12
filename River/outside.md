@@ -1,13 +1,14 @@
-# Outside
+ Outside
 
-Once outside the house you notice that their is a huge river you need to cross before celebrating your escape from the house !
+Once outside the house the character notices that there is a huge river he needs to cross before actually finally escaping. He feels hopeless when he remebers that he does not know how to swim.
 
-You decide to either take another route or cross the river...
+The character decides to either look for another route or attempt to cross the river in any way he could. When the character sees that there is no other route he could use he decides to give up.
 
-After some time of thinking you decide to risk getting wet and cross the river, but before entering..
+Looking at the paper with the many hints he reads, "to cross, use part of a tree". The character is utterly confused. He looks around to see what the hint could mean.
 
-You look around your surroundings to see if their is a note
+Suddesnly, he realizes that on the far end corner, there is a huge log laying there. He goes and does his best to drag the heavy log back. When it is near the river, he pushes it into to the water, stands up, steps on it, and attempts to sit on the log while placing his legs into the water.
 
-Near the River you found the note waiting for you. You pick it up but the only helpful thing that says is "Use part of the tree"
+The character then uses his hand as way of paddling to get him to the far other side of the river.
 
-Following what the note says you decide to use the tree that is near to cross over.
+Once at the end, the character hops of the log and heads off to see what he needs to do next.
+
