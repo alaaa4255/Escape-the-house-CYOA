@@ -14,5 +14,5 @@ The character then uses his hand as way of paddling to get him to the far other 
 Once at the end, the character hops of the log and heads off to see what he needs to do next.
 
 
-[The flashlight](flashlight.md)
+[The flashlight](flashlight/flashlight.md)
 
