@@ -12,4 +12,4 @@ Noticing a rock on the floor, tYou picks it up and smash the car window open.
 
 You hop into the car, grab the keys and start the engine, then speed off.
 
-[level 9](gates.md)
+[level 10](gates.md)
