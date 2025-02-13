@@ -11,7 +11,7 @@ Are you ready to play ?
 
 Also 
 
-[made by Damaris Pelaez](https://github.com/damarisp3284)
+[Made by Damaris Pelaez](https://github.com/damarisp3284)
 
 
 
