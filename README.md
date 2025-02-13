@@ -9,5 +9,9 @@ Are you ready to play ?
 
 [Made by Alaa Halim](https://github.com/alaaa4255)
 
+Also 
+
+[made by Damaris Pelaez](https://github.com/damarisp3284)
+
 
 
