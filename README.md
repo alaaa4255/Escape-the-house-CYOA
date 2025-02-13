@@ -1,3 +1,5 @@
 # escaping-granny
 
-A character who has to esacpe a random house he woke up in..
+Are you ready to play ? 
+
+[click here to begin](random.md) 
