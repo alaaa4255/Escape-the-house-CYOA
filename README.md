@@ -1,4 +1,4 @@
-# escaping-granny
+# Escaping-the-house
 
 
 Are you ready to play ?
