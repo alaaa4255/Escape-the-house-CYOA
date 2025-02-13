@@ -8,3 +8,5 @@ You relize that the puzzle pieces will complete a tree once all pieces are toget
 
 The door is unlocked with a loud "click".
 
+[level 3](the-backyard.md)
+

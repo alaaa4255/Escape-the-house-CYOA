@@ -13,3 +13,5 @@ At the far end corner You see a huge long log. You run to push the log closer to
 Once the log is placed directly on the river creating a path you could walk on, you cross.
 
 When you are now on the other side, You continue.
+
+[level 6](flashlight.md)

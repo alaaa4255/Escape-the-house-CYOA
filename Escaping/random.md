@@ -9,3 +9,5 @@ You read "Are you ready to escape? Start with the key"
 Seeing you have no choice, you begin.
 
 Using the key you unlock the door.
+
+[step out](the-screwdriver.md)

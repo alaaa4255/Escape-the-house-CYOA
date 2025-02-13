@@ -12,3 +12,5 @@ The windoes are sealed shut, bringing in only light but no air.
 
 The door is shut and two second later you hear the lock turning. Offically trapped.
 
+[Start over](random.md)
+

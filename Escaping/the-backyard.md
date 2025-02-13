@@ -13,3 +13,5 @@ Looking around you notice a car. with the feeling that the hammer is under there
 You grab ahold of a heavy object and pulls it out to see the hammer.
 
 You quickly run to the backyard door and smashes it against the door as hard as you can. The door breaks open.
+
+[level 4](metal-gates.md)

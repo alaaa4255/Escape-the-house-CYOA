@@ -12,4 +12,6 @@ You read the hints you have on the notes and sees that in order to deactivate th
 
 When you finally have the plugs the way they are suppoused to be, you walk to the gates and touches the metal and see that the tasers are now shut down.
 
-You pushe the door open leave.
+You push the door open leave.
+
+[level 5](outside.md)

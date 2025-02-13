@@ -16,6 +16,8 @@ You approach a town filled with people and ask for help.
 
 You are taken home to your family.
 
-You have offically escaped. 
+You have offically escaped.
+
+[Start over](random.md)
 
 

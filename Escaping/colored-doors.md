@@ -7,3 +7,5 @@ You look at the note to get a hint and sees that the object you need to unlock i
 You first start to look for the object in question, you easily find the key hidden between the couch cushions.
 
 you then go to unlock the red door.
+
+[level 2](the-puzzle.md)

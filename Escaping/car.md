@@ -15,3 +15,7 @@ The car comes to a stop and the driver turns around to face You.
 "However, you are given two options.. would you like to play another game of escaping the nect house or would you rather go back to the other house and stay trapped forever ?"
 
 What do you choose ?
+
+[Give up and get trapped](trapped.md)
+
+[Escape the next house](Windor.md)

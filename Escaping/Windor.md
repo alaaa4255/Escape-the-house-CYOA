@@ -13,3 +13,5 @@ You open the closet doors hoping that there is something you could use to smash 
 You back up as far as you could from the window and throw the vase at it as hard as you could.
 
 The window shatters and you step out.
+
+[level 8](glasscup.md)

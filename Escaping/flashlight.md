@@ -11,3 +11,5 @@ Looking up to a tree branch, there is a flashlight with a string tied around it 
 Reaching for it, you grab it and signal a car coming your way.
 
 The car stops and the driver is kind enough to let you in.
+
+[level 7](car.md)
